@@ -1,0 +1,18 @@
+﻿# Ignore Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Notebooks
+.ipynb_checkpoints/
+# Virtual environments
+venv/
+.env
+.venv/
+# Dataset (don't commit - too large)
+flowers/
+# Uncomment below to use Git LFS for model files:
+# flower_model.keras
+# OS files
+.DS_Store
+Thumbs.db
