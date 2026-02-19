@@ -15,6 +15,10 @@ A Streamlit web application for flower classification using deep learning (Tenso
 git clone https://github.com/guruprasath322/Flower_classification.git
 cd Flower_classification
 ```
+📂 Dataset Link
+
+Download the dataset here:
+➡ https://drive.google.com/drive/folders/1rzEFpraXXLLIGPo6F6jNEpeMOdWMgOzN
 
 2. **Create a virtual environment**
 ```bash
